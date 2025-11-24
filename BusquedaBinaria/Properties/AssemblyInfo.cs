@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada a un ensamblado.
-[assembly: AssemblyTitle("Busqueda Binaria")]
+[assembly: AssemblyTitle("BusquedaBinaria")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Busqueda Binaria")]
+[assembly: AssemblyProduct("BusquedaBinaria")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("f3919725-bba2-4263-9ed3-ee00763f17fe")]
+[assembly: Guid("224579c4-74f6-4493-949a-13bde4cecc04")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

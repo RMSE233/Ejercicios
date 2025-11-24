@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F3919725-BBA2-4263-9ED3-EE00763F17FE}</ProjectGuid>
+    <ProjectGuid>{C75F8CB6-AB22-4D8F-8CC7-5E10E3D4A229}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Busqueda_Binaria</RootNamespace>
-    <AssemblyName>Busqueda Binaria</AssemblyName>
+    <RootNamespace>BusquedaLineal</RootNamespace>
+    <AssemblyName>BusquedaLineal</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
